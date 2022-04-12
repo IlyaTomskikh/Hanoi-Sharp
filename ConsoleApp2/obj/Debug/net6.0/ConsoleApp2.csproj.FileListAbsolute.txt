@@ -1,0 +1,15 @@
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+F:\projectsR\decToBase\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
